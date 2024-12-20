@@ -146,6 +146,7 @@ export const banner = (args?: string[]): string => {
  |   _  | \ \// |    |_ |    |      ||   ___||     \ |     \/   | 
  |__| |_| /__/  |______||____|    __||______||__|\__\|__/\__/|__| 
                            |_____|                                
+                                                                 
 
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
