@@ -5,7 +5,7 @@
   "ascii": "liveterm",
   "social": {
     "github": "github",
-    "еудупкф": "telegram"
+    "telegram": "telegram"
   },
   "email": "hylierrbusiness@gmail.com",
   "ps1_hostname": "here",
@@ -13,6 +13,8 @@
   "repo": "https://github.com/Hylierr/PrW",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
+        "paypal": "https://paypal.me/cveinnt",
+        "patreon": "https://patreon.com/cveinnt"
   },
   "colors": {
     "light": {
