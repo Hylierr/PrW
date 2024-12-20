@@ -139,7 +139,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 
 // Banner
 export const banner = (args?: string[]): string => {
-  return `
+  return `                                                              
                               _____                                 
     __   _ __    _ ____   ___|__   |__  ______  _____   ____    __  
    |  |_| |\ \  //|    | |_    _|     ||   ___||     | |    \  /  | 
