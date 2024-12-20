@@ -42,6 +42,12 @@ export const resume = async (args: string[]): Promise<string> => {
   return 'Opening resume...';
 };
 
+
+export const homework = async (args: string[]): Promise<string> => {
+  window.open(`https://docs.google.com/document/d/1Oy_7clF9WNUapxAW1oHuIrZ9UhB6HetPYZMesuJK_bo/edit?tab=t.0`);
+  return 'Opening my homework...';
+};
+
 // Donate
 export const donate = async (args: string[]): Promise<string> => {
   return `thank you for your interest. 
