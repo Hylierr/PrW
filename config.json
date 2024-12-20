@@ -29,9 +29,9 @@
     "dark": {
       "background": "#1a2137",
       "foreground": "#e7ebf6",
-      "yellow": "#c16b00",
-      "green": "#798f00",
-      "gray": "#a4a4a4",
+      "yellow": "#d17400",
+      "green": "#91ab00",
+      "gray": "#dbdbdb",
       "blue": "#008dcf",
       "red": "#ed007e"
     }
