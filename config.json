@@ -1,10 +1,10 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
   "title": "HylTerm",
-  "name": "Григорий Бунов",
+  "name": "Gregory Bunov",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
+    "github": "hylierr",
     "linkedin": "telegram"
   },
   "email": "hylierrbusiness@gmail.com",
@@ -27,13 +27,13 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#1a2137",
+      "foreground": "#e7ebf6",
+      "yellow": "#c16b00",
+      "green": "#798f00",
+      "gray": "#2e3859",
+      "blue": "#008dcf",
+      "red": "#ed007e"
     }
   }
 }
