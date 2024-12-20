@@ -139,14 +139,14 @@ export const sudo = async (args?: string[]): Promise<string> => {
 
 // Banner
 export const banner = (args?: string[]): string => {
-  return `                                                              
+  return `
                               _____                                 
     __   _ __    _ ____   ___|__   |__  ______  _____   ____    __  
    |  |_| |\ \  //|    | |_    _|     ||   ___||     | |    \  /  | 
    |   _  | \ \// |    |_ |    |      ||   ___||     \ |     \/   | 
    |__| |_| /__/  |______||____|    __||______||__|\__\|__/\__/|__| 
                              |_____|                                
-                                                                  
+
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
