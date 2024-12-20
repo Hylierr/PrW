@@ -1,6 +1,6 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "HylTerm",
+  "title": "hylTerm",
   "name": "Gregory Bunov",
   "ascii": "liveterm",
   "social": {
@@ -31,7 +31,7 @@
       "foreground": "#e7ebf6",
       "yellow": "#c16b00",
       "green": "#798f00",
-      "gray": "#2e3859",
+      "gray": "#a4a4a4",
       "blue": "#008dcf",
       "red": "#ed007e"
     }
