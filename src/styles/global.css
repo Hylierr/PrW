@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Hack';
+  font-family: 'JetBrains Mono';
   src: url(/assets/fonts/JetBrains.ttf);
   display: swap;
 }
 
 * {
-  font-family: 'Hack', monospace;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 html,
